@@ -1,7 +1,7 @@
 # Learnings
 
 
-##1. To kill a process which is occupying a port
+## 1. To kill a process which is occupying a port
 
 Step 1: Find the process ID (PID) for the port (e.g.: 8080)
 
